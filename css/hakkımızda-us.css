@@ -1,0 +1,23 @@
+* {
+  font-family: monospace;
+  list-style-type: none;
+  text-decoration: none;
+  text-align: center;
+}
+
+header {
+  background: tomato;
+  border: 1px solid tomato;
+  border-radius: 3px;
+}
+
+a {
+  color: white;
+}
+
+footer {
+  background: tomato;
+  text-align: center;
+  font-size: 50px;
+  color: white;
+}
